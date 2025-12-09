@@ -1,3 +1,4 @@
 # Testing Git through a GUI
 
-- Commit 
+- Commit 1
+- commit 2
